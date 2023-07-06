@@ -1,0 +1,2 @@
+Como no sabía si había que hacerlo con el dataset del vino o del titanic, lo he hecho con los dos.
+Cada análisis está en un cuaderno distinto para no andar todo el rato reiniciando el kernel
